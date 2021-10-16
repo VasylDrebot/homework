@@ -1,0 +1,28 @@
+body {
+    background: aquamarine;
+}
+.name {
+    text-align: center;
+}
+h1.name {
+    color: firebrick;
+    font-size: 30px;
+}
+h2.name {
+    color: mediumslateblue;
+    font-size: 25px;
+}
+
+p {
+    text-align: justify;
+}
+
+img {
+    border: 1px solid darkslategray;
+    width: 1245px;
+}
+.name2 {
+    text-align: center;
+    color: tomato;
+    font-size: 25px;
+}
