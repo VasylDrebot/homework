@@ -1,0 +1,135 @@
+.father {
+    width: 500px;
+    height: 500px;
+}
+.one {
+    background: darkslategray;
+    height: 150px;
+    border-bottom: 8px solid white;
+}
+.two {
+    height: 350px;
+    display: flex;
+}
+.three {
+    background: aquamarine;
+    width: 350px;
+    border-right: 8px solid white;
+}
+.four {
+    background: blueviolet;
+    width: 150px;
+}
+
+
+.item {
+    width: 400px;
+    height: 600px;
+}
+#header {
+    background: blueviolet;
+    height: 125px;
+    border-bottom: 5px solid white;
+}
+.item1 {
+    height: 350px;
+    display: flex;
+}
+#footer {
+    background: darkslategray;
+    height: 125px;
+    border-top: 5px solid white;
+}
+#menu {
+    background: green;
+    width: 120px;
+    border-right: 5px solid white;
+}
+.item2 {
+    width: 350px;
+}
+.post {
+    height: 175px;
+}
+.color1 {
+    background: gray;
+
+}
+.color2 {
+    background: darkcyan;
+    border-top: 5px solid white;
+    box-sizing: border-box;
+}
+
+
+.container {
+    height: 600px;
+    width: 450px;
+}
+.container1 {
+    background: firebrick;
+    height: 150px;
+    border-bottom: 5px solid white;
+}
+.container2 {
+    height: 150px;
+    display: flex;
+}
+.container3 {
+    background: tomato;
+    height: 300px;
+    border-top: 5px solid white;
+}
+.box {
+    width: 150px;
+}
+.a {
+    background: blue;
+    border-right: 5px solid white;
+}
+.b {
+    background: darkcyan;
+}
+.c {
+    background: aqua;
+    border-left: 5px solid white;
+}
+
+
+.section {
+    width: 500px;
+    height: 600px;
+
+}
+.header1 {
+    background: darkcyan;
+    height: 100px;
+    border-bottom: 5px solid white;
+}
+.nav {
+    background: tomato;
+    height: 80px;
+    border-bottom: 5px solid white;
+}
+.box1 {
+    height: 240px;
+    display: flex;
+}
+.footer1 {
+    background: cornflowerblue;
+    height: 80px;
+    border-top: 5px solid white;
+}
+.main1 {
+    background: darkslategray;
+    width: 350px;
+    border-right: 5px solid white;
+}
+.aside {
+    background: aqua;
+    width: 150px;
+}
+
+
+
+
