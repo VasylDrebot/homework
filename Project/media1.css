@@ -1,0 +1,480 @@
+@media screen and (max-width: 576px) {
+    .main {
+        overflow-x: hidden;
+    }
+    .contact {
+        position: relative;
+    }
+    .whatsapp__contact {
+        position: absolute;
+        right: 9px;
+        top: 95px;
+    }
+    .nav__mobile button {
+        background: #005BB9;
+        border-radius: 4px;
+    }
+    .header__bottom1 {
+        margin-bottom: 15px;
+    }
+    .logo img {
+        width: 37px;
+        height: 45px;
+    }
+    .logo h2 {
+        font-weight: bold;
+        font-size: 10px;
+        line-height: 5px;
+        color: #0F2438;
+    }
+    .logo p {
+        font-size: 9px;
+        line-height: 8px;
+        margin-right: 18px;
+    }
+    .number {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 0;
+        color: #0F2438;
+        margin-left: 32px;
+    }
+    .form {
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 0;
+        text-decoration-line: underline;
+        color: #0F2438;
+    }
+    .input {
+        width: 132px;
+        height: 18px;
+    }
+    .input p {
+        font-weight: normal;
+        font-size: 9px;
+        line-height: 0;
+        color: #000000;
+    }
+    .input img {
+        margin-top: 4px;
+        width: 9px;
+        height: 9px;
+    }
+    .nav__item__mobile img {
+        margin-left: 3px;
+    }
+    .button__mobile {
+        width: 34px;
+        height: 34px;
+        border: none;
+        display: flex;
+        flex-direction: column;
+        row-gap: 3px;
+        justify-content: center;
+        align-items: center;
+    }
+    .button__mobile span {
+        width: 20px;
+        height: 2px;
+        background: #FFFFFF;
+    }
+    .nav__mobile form {
+        margin-left: 30px;
+    }
+    .input-text {
+        border-radius: 4px 0 0 4px;
+        width: 203px;
+        height: 34px;
+        background: #F4F5FA;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 14px;
+        display: flex;
+        align-items: center;
+        color: #C2C5DA;
+    }
+    .nav__mobile button {
+        border-radius: 4px;
+    }
+    .btn-search {
+        width: 34px;
+        height: 34px;
+        background: #005BB9;
+    }
+    .nav__mobile .btn-search {
+        border-radius: 0 4px 4px 0;
+    }
+    .nav__mobile {
+        padding-bottom: 10px;
+    }
+    .slide__mobile {
+        width: 290px;
+        height: 195px;
+    }
+    .slide__mobile img {
+        width: 100%;
+        margin-left: 5px;
+    }
+    .text h2 {
+        font-size: 16px;
+        line-height: 10px;
+    }
+    .text h4 {
+        font-size: 10px;
+        line-height: 12px;
+        text-decoration-line: underline;
+        color: #717171;
+    }
+    .text h3  {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 23px;
+    }
+    .text span {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .text button {
+        width: 124px;
+        height: 34px;
+    }
+    .text button img {
+        width: 12px;
+        height: 12px;
+    }
+    .text {
+        top: 245px;
+        left: 26px;
+    }
+    .slide__mobile .avt {
+        width: 120px;
+        height: 100px;
+        top: 236px;
+        left: 178px;
+    }
+    .ellipse {
+        display: flex;
+        margin-left: 106px;
+        margin-top: 16px;
+    }
+    .ellipse img {
+        width: 12px;
+        height: 12px;
+        margin-right: 5px;
+    }
+    .first-product {
+        right: 12px;
+        bottom: -83px;
+        position: absolute;
+        width: 91%;
+    }
+    .first-product button {
+        left: 249px;
+    }
+    .main-content-products {
+        margin-top: 187px;
+    }
+    .product {
+        width: 100%;
+    }
+    .product h4  {
+        margin-top: 30px;
+        margin-right: 70px;
+        margin-left: -56px;
+        font-size: 12px;
+    }
+    .product button {
+        position: absolute;
+        bottom: 15px;
+        left: 30px;
+    }
+    .product img {
+        width: 100px;
+        height: 163px;
+        top: -5px;
+        left: 196px;
+    }
+    .button1 {
+        font-size: 14px;
+    }
+    .button2 {
+        font-size: 14px;
+    }
+    .car-part img {
+        width: 149px;
+        height: 127px;
+    }
+    .car-part .star {
+        width: 10px;
+        height: 10px;
+        bottom: 143px;
+        left: 5px;
+    }
+    .car-part .star2 {
+        width: 10px;
+        height: 10px;
+        bottom: 143px;
+        left: 4px;
+    }
+    .icons .discount-icon {
+        width: 32px;
+        height: 16px;
+        bottom: 251px;
+        right: 121px;
+    }
+    .car-part button img {
+        width: 12px;
+        height: 16px;
+    }
+    .car-part button {
+        width: 110px;
+        height: 35px;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+        color: #FFFFFF;
+    }
+    .car-part h3 {
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 17px;
+        color: #0A1A2C;
+    }
+    .car-part h4 {
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 14px;
+        color: #000000;
+    }
+    .car-part h4 span {
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 14px;
+        text-decoration-line: underline;
+        color: #005BB9;
+    }
+    .car-part .price {
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 16px;
+        color: #FFB800;
+        padding-top: 20px;
+    }
+    .car-part .price span {
+        font-weight: normal;
+        font-size: 10px;
+        line-height: 12px;
+        text-decoration-line: line-through;
+        color: #C2C5DA;
+    }
+    .car-part p {
+        font-weight: 500;
+        font-size: 10px;
+        line-height: 12px;
+        color: #FFB800;
+    }
+    .car-part p span {
+        font-weight: normal;
+        font-size: 10px;
+        line-height: 12px;
+        color: #B0B0B0;
+    }
+    .icons .group {
+        display: none;
+    }
+    .icons .vector {
+        width: 16px;
+        height: 16px;
+        position: absolute;
+        right: 27px;
+        top: -11px;
+    }
+    .mt-30 {
+        margin-top: 30px;
+    }
+    .car-part .padding-top {
+        padding-top: 20px;
+    }
+    .mt-2 {
+        margin-top: 2px!important;
+    }
+    .car-part-bottom button {
+        width: 160px;
+        height: 34px;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .dates img {
+        display: none!important;
+    }
+    .dates {
+        display: block!important;
+        margin-top: -15px;
+    }
+    .article {
+        display: block;
+    }
+    .main-content-bottom {
+        display: none;
+    }
+    .date1 {
+        position: relative;
+        top: 86px;
+    }
+    .article-content {
+        right: 30px;
+        top: 43px;
+    }
+    .ml-209 {
+        margin-left: 0;
+        top: 270px;
+    }
+    .article {
+        height: 680px;
+    }
+    .p-left {
+        position: relative;
+        top: 223px;
+        right: 50px;
+    }
+    .w-236 {
+        margin-left: 30px;
+        margin-top: 55px;
+    }
+    .ml-147 {
+        top: 428px;
+        right: 145px;
+    }
+    .ml-186 {
+        right: 186px;
+        top: 628px;
+    }
+    .footer {
+        height: 1380px;
+    }
+    .footer-item1 .text-footer {
+        position: absolute;
+        bottom: -333px;
+        font-size: 12px;
+        border-top: 1px solid #1D3044;
+        width: 320px;
+        background-color: #0E1E2F;
+    }
+    .footer-item1-icon {
+        bottom: -250px;
+    }
+    .f-item1 {
+        bottom: -278px;
+        right: 40px;
+    }
+    .footer-item1 .m-bottom15 {
+        position: relative;
+        bottom: 177px;
+    }
+    .footer-item1 .number1 {
+        position: relative;
+        bottom: 270px;
+        left: 3px;
+        font-size: 12px;
+    }
+    .footer-item1 .footer-line-height {
+        position: relative;
+        bottom: 180px;
+        left: 0;
+    }
+    .top-20 {
+        top: -80px;
+    }
+    .top-15 {
+        top: -76px;
+    }
+    .footer-line-height2 {
+        position: relative;
+        top: -25px;
+    }
+    .left-11 {
+        left: 11px;
+        top: 181px;
+    }
+    .footer-item1 .left-13 {
+        position: relative;
+        bottom: -84px;
+        left: 4px;
+    }
+    .footer-item1 .top-78 {
+        top: 78px;
+        left: 4px;
+        font-size: 12px;
+    }
+    .footer-item1 .top-2 {
+        top: 2px;
+    }
+    .footer-item1 img {
+        width: 89px;
+        height: 35px;
+    }
+    .width-h {
+        background: none;
+        width: 160px;
+    }
+    .footer-item1 button {
+        width: 104px;
+    }
+    .pt-35 {
+        padding-top: 35px;
+    }
+    .top-50 {
+        bottom: 105px;
+    }
+    .left-11 {
+        top: 100px;
+    }
+    .border {
+        position: relative;
+        bottom: 76px;
+    }
+    .icons-container {
+        width: 320px;
+        height: 60px;
+        background: #FFFFFF;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        position: relative;
+        bottom: 275px;
+        justify-content: space-evenly;
+        align-items: flex-end;
+    }
+    .icon1 {
+        margin-bottom: -6px;
+    }
+    .icon1 p {
+        font-weight: normal;
+        font-size: 10px;
+        line-height: 12px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #0F2438;
+        justify-content: space-evenly;
+    }
+    .icon1-image {
+        position: absolute;
+        left: 129px;
+    }
+    .icon1-image2 {
+        position: absolute;
+        right: 102px;
+    }
+    .ml-13 {
+        margin-left: 13px!important;
+    }
+    .icon1 img:nth-child(1) {
+        margin-left: 6px;
+    }
+    .plus {
+        width: 26px;
+        height: 26px;
+        margin-top: -3px;
+    }
+}
